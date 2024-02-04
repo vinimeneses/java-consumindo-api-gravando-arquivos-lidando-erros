@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/4-Java-consumindo-api-gravando-arquivos-lidando-erros.iml" filepath="$PROJECT_DIR$/.idea/4-Java-consumindo-api-gravando-arquivos-lidando-erros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios1/Exercicios1.iml" filepath="$PROJECT_DIR$/Exercicios1/Exercicios1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios1.1/Exercicios1.1.iml" filepath="$PROJECT_DIR$/Exercicios1.1/Exercicios1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista Telefonica/Lista Telefonica.iml" filepath="$PROJECT_DIR$/Lista Telefonica/Lista Telefonica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios1.2/exercicios1.2.iml" filepath="$PROJECT_DIR$/exercicios1.2/exercicios1.2.iml" />
+    </modules>
+  </component>
+</project>
